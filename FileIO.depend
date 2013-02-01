@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1359081350 source:c:\documents and settings\vortex\desktop\c++ programming\c++ projects\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359638828 source:e:\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359637904 source:e:\fileio\sample.cpp
+
+1359679358 source:f:\fileio\sample.cpp
+
+1359684656 source:f:\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359679358 source:c:\documents and settings\vortex\desktop\c++ programming\fileio\sample.cpp
+
+1359684896 source:c:\documents and settings\vortex\desktop\c++ programming\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
